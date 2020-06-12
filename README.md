@@ -15,4 +15,8 @@
 [TrueCrypt](https://github.com/AuditProject/truecrypt-verified-mirror),
 [VeraCrypt](https://veracrypt.ru)
 
+### Drivers
+
+[Lenovo B590](https://pcsupport.lenovo.com/ru/ru/products/laptops-and-netbooks/lenovo-b-series-laptops/lenovo-b590-notebook/20206/downloads/driver-list/component)
+
 ## Mac OS X
