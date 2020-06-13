@@ -19,4 +19,6 @@
 
 [Lenovo B590](https://pcsupport.lenovo.com/ru/ru/products/laptops-and-netbooks/lenovo-b-series-laptops/lenovo-b590-notebook/20206/downloads/driver-list/component)
 
+[ASUS P8H61-MX](https://www.asus.com/ru/Motherboards/P8H61MX/HelpDesk_Download/)
+
 ## Mac OS X
